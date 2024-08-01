@@ -8,9 +8,9 @@
 
   - **Training a small model (model_name = `facebook/esm2_t6_8M_UR50D`):**
 
-    [sequence_classification_small](https://github.com/Amelie-Schreiber/esm2_masked_lm/blob/main/sequence_classification.ipynb) notebook is about predicting whether a protein is (1) an enzyme, (2) a receptor protein, or (3) a structural protein. The dataset was taken from [Amelie-Schreiber](https://github.com/Amelie-Schreiber/esm2_masked_lm/blob/main/sequence_classification.ipynb).
+    [sequence_classification_small](https://github.com/mabbasiazad/Protein_Language_Models/blob/master/sequence_classification_small.ipynb) notebook is about predicting whether a protein is (1) an enzyme, (2) a receptor protein, or (3) a structural protein. The dataset was taken from [Amelie-Schreiber](https://github.com/Amelie-Schreiber/esm2_masked_lm/blob/main/sequence_classification.ipynb).
 
-    You can run this model size on google collab. 
+    You can run this model on Google Colab.
 
   - **Training a larger model:**
 
