@@ -20,7 +20,7 @@ In this repository, I have used the ESM2 model for the following tasks:
 
   - **Training a larger model (model_name = "facebook/esm2_t33_650M_UR50D")**
 
-    To run this model we need more compute resources then what is available on Google Colab. So, I ran the [sequence_classification_large]() in AWS SageMaker. The GPU instance used are mentined in the notebook.
+    To run this model we need more compute resources then what is available on Google Colab. So, I ran the [sequence_classification_large](https://github.com/mabbasiazad/Protein_Language_Models/tree/master/sequence_classification_large/finetune_esm_on_deeploc) notebook in AWS SageMaker. The GPU instance used are mentined in the notebook.
 
     The specific problem addressed in this notebook is `subcellular localization`: Given a protein sequence, can we build a model that can predict if it lives on the outside (cell membrane) or inside of a cell? This is an important piece of information that can help us understand the function and whether it would make a good drug target.
 
