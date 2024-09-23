@@ -26,7 +26,4 @@ In this repository, I have used the ESM2 model for the following tasks:
 
     The source of the notebook is [aws-healthcare-lifescience-ai-ml-sample-notebooks](https://github.com/aws-samples/aws-healthcare-lifescience-ai-ml-sample-notebooks/tree/main/workshops/Protein_Language_Modelling/finetune_esm_on_deeploc)
 
-- **Residue/Token Classification:**
 
-  *The aim is to predict the binding site of proteins with ESM2 model*
-  *(In progress)*
